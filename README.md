@@ -21,46 +21,18 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<h3>Screenshots of The Blog<h3>
+   ![Screenshot 2022-01-04 150218](https://user-images.githubusercontent.com/73895704/148065611-ed561267-ca6b-4224-98d5-90caf1f86269.png)
+![Screenshot 2022-01-04 150243](https://user-images.githubusercontent.com/73895704/148065628-1d49c73b-d386-48fd-9b5e-65f877d40f48.png)
+![Screenshot 2022-01-04 150332](https://user-images.githubusercontent.com/73895704/148065636-e1f05035-bb19-494a-8356-d7705d42cfdd.png)
+![Screenshot 2022-01-04 150356](https://user-images.githubusercontent.com/73895704/148065648-17e941c1-88ca-4d09-9727-24f29eaa8612.png)
+![Screenshot 2022-01-04 150422](https://user-images.githubusercontent.com/73895704/148065652-880b1b8f-b07b-4d2b-abdf-2634464e8ed3.png)
+![Screenshot 2022-01-04 150450](https://user-images.githubusercontent.com/73895704/148065657-6397d701-022a-42b5-b740-c4f06984b779.png)
+![Screenshot 2022-01-04 150520](https://user-images.githubusercontent.com/73895704/148065663-01aadb3d-6df0-4a5e-8f3e-7da2009622da.png)
+![Screenshot 2022-01-04 150601](https://user-images.githubusercontent.com/73895704/148065667-a8f71fd3-57bb-4a42-854a-9ee7407f04e3.png)
+![Screenshot 2022-01-04 150644](https://user-images.githubusercontent.com/73895704/148065672-88e32154-ae97-4389-b576-aae267c01542.png)
+![Screenshot 2022-01-04 150718](https://user-images.githubusercontent.com/73895704/148065678-5e226861-fe67-41d6-b402-841651b8dfc1.png)
+![Screenshot 2022-01-04 150750](https://user-images.githubusercontent.com/73895704/148065682-08306c49-8c30-4bf5-891d-2c556a565080.png)
+![Screenshot 2022-01-04 151830](https://user-images.githubusercontent.com/73895704/148065691-9a1a5513-536a-4670-8659-acd784e0efae.png)
+ 
+ 
