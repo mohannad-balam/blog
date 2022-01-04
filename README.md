@@ -22,17 +22,18 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 <h3>Screenshots of The Blog</h3>
-   ![Screenshot 2022-01-04 150218](https://user-images.githubusercontent.com/73895704/148065611-ed561267-ca6b-4224-98d5-90caf1f86269.png)
-![Screenshot 2022-01-04 150243](https://user-images.githubusercontent.com/73895704/148065628-1d49c73b-d386-48fd-9b5e-65f877d40f48.png)
-![Screenshot 2022-01-04 150332](https://user-images.githubusercontent.com/73895704/148065636-e1f05035-bb19-494a-8356-d7705d42cfdd.png)
-![Screenshot 2022-01-04 150356](https://user-images.githubusercontent.com/73895704/148065648-17e941c1-88ca-4d09-9727-24f29eaa8612.png)
-![Screenshot 2022-01-04 150422](https://user-images.githubusercontent.com/73895704/148065652-880b1b8f-b07b-4d2b-abdf-2634464e8ed3.png)
-![Screenshot 2022-01-04 150450](https://user-images.githubusercontent.com/73895704/148065657-6397d701-022a-42b5-b740-c4f06984b779.png)
-![Screenshot 2022-01-04 150520](https://user-images.githubusercontent.com/73895704/148065663-01aadb3d-6df0-4a5e-8f3e-7da2009622da.png)
-![Screenshot 2022-01-04 150601](https://user-images.githubusercontent.com/73895704/148065667-a8f71fd3-57bb-4a42-854a-9ee7407f04e3.png)
-![Screenshot 2022-01-04 150644](https://user-images.githubusercontent.com/73895704/148065672-88e32154-ae97-4389-b576-aae267c01542.png)
-![Screenshot 2022-01-04 150718](https://user-images.githubusercontent.com/73895704/148065678-5e226861-fe67-41d6-b402-841651b8dfc1.png)
-![Screenshot 2022-01-04 150750](https://user-images.githubusercontent.com/73895704/148065682-08306c49-8c30-4bf5-891d-2c556a565080.png)
-![Screenshot 2022-01-04 151830](https://user-images.githubusercontent.com/73895704/148065691-9a1a5513-536a-4670-8659-acd784e0efae.png)
- 
+
+ ![Screenshot 2022-01-04 150218](https://user-images.githubusercontent.com/73895704/148065954-762de659-b0e2-4b6b-97f3-69c7500eb557.png)
+![Screenshot 2022-01-04 150243](https://user-images.githubusercontent.com/73895704/148066006-65f3b85f-554b-46dd-9474-5f1499cf04a1.png)
+![Screenshot 2022-01-04 150332](https://user-images.githubusercontent.com/73895704/148066020-5961dc85-a57c-4319-a2d4-b627fede65f6.png)
+![Screenshot 2022-01-04 150356](https://user-images.githubusercontent.com/73895704/148066048-0101651b-03d3-4b25-bf12-defeb12721ae.png)
+![Screenshot 2022-01-04 150422](https://user-images.githubusercontent.com/73895704/148066058-b04f1d7c-6301-4ec1-ac19-d56033206289.png)
+![Screenshot 2022-01-04 150450](https://user-images.githubusercontent.com/73895704/148066061-fd14af98-23bb-44f0-9fc9-c349e966c4bd.png)
+![Screenshot 2022-01-04 150520](https://user-images.githubusercontent.com/73895704/148066064-10ee613c-cb0e-40f2-ae3d-8ccf6464a8ac.png)
+![Screenshot 2022-01-04 150601](https://user-images.githubusercontent.com/73895704/148066067-a2b05602-f790-4485-97d4-20b362385204.png)
+![Screenshot 2022-01-04 150644](https://user-images.githubusercontent.com/73895704/148066084-1f51eeda-6a42-4fac-a8cb-44e097eb0187.png)
+![Screenshot 2022-01-04 150718](https://user-images.githubusercontent.com/73895704/148066085-6efc1a0a-24b7-4670-8099-4791d2461e36.png)
+![Screenshot 2022-01-04 150750](https://user-images.githubusercontent.com/73895704/148066088-5155faf2-328e-4e17-a48c-fb32c692209c.png)
+![Screenshot 2022-01-04 151830](https://user-images.githubusercontent.com/73895704/148066097-441c2499-69af-43fb-8f20-ef1143458d38.png)
+
  
